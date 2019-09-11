@@ -1,0 +1,28 @@
+Teste Posto Java,07/09/2019
+Carapicuiba,05/09/2019	 	 	 	 	 
+Mogi Guaçu,09/09/2019	 	 	 	 	 
+Cotia,12/09/2019	 	 	 	 	 
+Andradina,16/09/2019	 	 	 	 	 
+Penápolis,18/09/2019	 	 	 	 	 
+Lins,20/09/2019	 	 	 	 	 
+Itapetininga,24/09/2019	 	 	 	 	 
+Tatuí,26/09/2019	 	 	 	 	 
+Assis,30/09/2019	 	 	 	 	 
+Tupã,02/10/2019	 	 	 	 	 
+Presidente Prudente,04/10/2019	 	 	 	 	 
+Itapeva,08/10/2019	 	 	 	 	 
+Registro,10/10/2019	 	 	 	 	 
+Marília,14/10/2019	 	 	 	 	 
+Ourinhos,17/10/2019	 	 	 	 	 
+Avaré,18/10/2019	 	 	 	 	 
+Fernandópolis,21/10/2019	 	 	 	 	 
+Votuporanga,23/10/2019	 	 	 	 	 
+Catanduva,25/10/2019	 	 	 	 	 
+Jau,29/10/2019	 	 	 	 	 
+Itu,31/10/2019	 	 	 	 	 
+Birigui,05/11/2019	 	 	 	 	 
+Dracena,07/11/2019	 	 	 	 	 
+Movel,12/11/2019	 	 	 	 	 
+Americana,14/11/2019	 	 	 	 	 
+Mogi das Cruzes,19/11/2019	 	 	 	 	 
+São Carlos,21/11/2019	 	 	 	 	 
